@@ -1,0 +1,242 @@
+#div1{
+    width: 450px;
+    height: 800px;
+    margin-left: 0px;
+    color:rgba(233, 223, 210, 0.801)
+}
+#div2{
+    width: 400px;
+    height: 800px;
+    margin-left: 550px;
+    margin-top: -790px;
+    color:rgba(233, 223, 210, 0.801)
+}
+#img{
+    height:450px;
+    width: auto;
+}
+#img1{
+    height:400px;
+    width: auto;
+}
+#div3{
+    width: 400px;
+    height: 800px;
+    margin-left: 1000px;
+    margin-top: -790px;
+    position: absolute;
+    color:rgba(233, 223, 210, 0.801)
+
+}
+#img2{
+    height:550px;
+    width: auto;
+    margin-top: -50px;
+}
+#img5{
+    height:460px;
+    width: auto;
+    margin-top: -10px;
+    margin-left: 30px;
+  
+}
+#img6{
+    height:350px;
+    width: auto;
+    margin-top: 40px;
+    margin-left: 40px;
+  
+}
+#img3{
+    height:360px;
+    width: auto;
+    margin-top: 40px;
+}
+#img4{
+    height:360px;
+    width: auto;
+    margin-top: 40px;
+    margin-left: -70px;
+}
+#div4{
+    margin-bottom: 10px;
+    
+    color:rgba(233, 223, 210, 0.801)
+}
+#div5{
+    margin-bottom: 20px;
+    color:rgba(233, 223, 210, 0.801)
+}
+#div6{
+
+    height: 600px;
+    width: 1500px;
+    margin-left: 10px;
+   
+}
+#div7{
+    color:rgba(233, 223, 210, 0.801);
+    margin-left: -50px;
+}
+#div8{
+    color:rgba(233, 223, 210, 0.801);
+    margin-left: -50px;
+    margin-bottom: 15px;
+}
+nav{
+    background-image: url('https://www.freegreatpicture.com/files/146/25202-colorful-high-resolution-background.jpg');
+  background-repeat: no-repeat;
+background-attachment: fixed; 
+background-size: 100% 100%;
+}
+.dropdown-menu{
+    background-image: url('https://www.freegreatpicture.com/files/146/25202-colorful-high-resolution-background.jpg');
+  background-repeat: no-repeat;
+background-attachment: fixed; 
+background-size: 100% 100%;
+border-width: 1px;
+border-radius: 0px;
+box-shadow:  0.5px 0.5px 0.5px 0.5px rgba(146, 156, 196, 0.349);
+
+}
+.dropdown-item{
+    color:antiquewhite;
+}
+#navbarDropdown:hover{
+    background-color:rgba(146, 156, 196, 0.349) ;
+    
+}
+#navbar-example2{
+    padding: 10px;
+    font-size: 20px;
+}
+.reviews
+{
+    margin: 50px auto;
+}
+
+.reviews h1
+{
+    text-align: center;
+    font-weight: bold;
+    color: #ff9800;
+    padding-bottom: 10px;
+    text-transform: uppercase;
+}
+.reviews h1::after
+{
+    content: '';
+    background: #ff9800;
+    display: block;
+    height: 3px;
+    width:170 px;
+    margin: 20px auto 5 px;    
+}
+
+.reviews .row
+{
+    margin-top: 30px;
+
+}
+.col-md-4
+{
+    margin:40px auto;
+}
+.profile
+{   margin-top: 30px;
+    padding: 70px 10px 10px;
+    background-color: #ffffff;
+}
+
+.profile img{
+    height: 150px;
+    width: 130px;
+    top: -60px;
+    position:absolute;
+    left: calc(50% - 60px);
+    border: 5px solid rgba(233, 223, 210, 0.801);
+}
+
+.user
+{
+    width:120px;
+    height:120px;
+    border-radius:50%;
+
+}
+
+.profile h3
+{
+   font-size:20px;
+   margin-top:10px;
+   color: #ff9800;
+}
+
+span{
+    font-size: 12px;
+    color: #333;
+}
+blockquote
+{   
+    font-size: 16px;
+    line-height: 30px;
+}
+
+.profile:hover
+{
+    box-shadow: 0 0 15px 5px rgba(51, 51, 51, 0.507);
+}
+.row h1{
+    color:aliceblue;
+}
+#hcolor{
+    color:rgb(233, 229, 229);
+}
+#divprice{
+    color:rgb(233, 229, 229);
+   margin-top: -30px;
+}
+#oneList{
+    margin-left: 20px;
+    background-color: #efefefcb;
+    color: #333;
+}
+#appleList{
+    margin-left: 120px;
+    background-color: #efefefcb;
+    color: #333;
+}
+#samList{
+    margin-left: 120px;
+    background-color: #efefefcb;
+    color: #333;
+}
+#imgLogo{
+    height: 80px;
+    width :90px
+}
+#iframe1{
+    width:470px;
+    height:350px;
+    margin-left: 30px;
+}
+#iframe2{
+    width:470px;
+    height:350px;
+    margin-left: 10px;
+    
+}
+#iframe3{
+    width:470px;
+    height:350px;
+    margin-left: 10px;
+  
+    
+}
+#price{
+    margin-top: -150px;
+}
+#logo{
+    height:100px;
+    width:120px
+}
